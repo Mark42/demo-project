@@ -1,3 +1,6 @@
 # Hello!
 
-This is the home page. We'll add more stuff later.
+This is the home page.
+
+## New stuff here!
+[Try out feature #1](feature-01.md)

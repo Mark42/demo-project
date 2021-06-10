@@ -1,3 +1,5 @@
 # Feature 1
 
-This is the page for feature 1. There's still more work to be done on this page.
+This is the page for feature 1.
+
+More work done now for feature 1. Let's commit as we continue working.

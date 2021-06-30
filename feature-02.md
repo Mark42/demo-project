@@ -1,5 +1,5 @@
 # Feature 2
 
-This is our second new feature. More work to be done on this one.
+This is our second new feature.
 
-Progress! We're cranking away here!
+Awesome, this feature is really taking shape!

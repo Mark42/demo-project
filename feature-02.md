@@ -2,4 +2,4 @@
 
 This is our second new feature.
 
-Awesome, this feature is really taking shape!
+Cool, this feature is complete!
